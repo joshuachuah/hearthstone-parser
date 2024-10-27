@@ -1,0 +1,9 @@
+id,name,cost,text,attack,health,type,class,rarity
+69867,"Soul of the Forest",4,"Give your minions ""<b>Deathrattle:</b> Summon a 2/2 Treant.""",,,"SPELL","DRUID","COMMON"
+38913,"A Light in the Darkness",2,"<b>Discover</b> a minion.\nGive it +1/+1.",,,"SPELL","PALADIN","COMMON"
+50019,"A New Challenger...",7,"<b>Discover</b> a 6-Cost minion. Summon it with <b>Taunt</b> and <b>Divine Shield</b>.",,,"SPELL","PALADIN","EPIC"
+38531,"Aberrant Berserker",4,"Has +2 Attack while damaged.",3,5,"MINION","NEUTRAL","COMMON"
+43245,"Abominable Bowman",7,"<b>Deathrattle:</b> Summon\na random friendly Beast\nthat died this game.",6,7,"MINION","HUNTER","EPIC"
+49819,"Zul'jin",10,"<b>Battlecry:</b> Cast all spells\nyou've played this game\n<i>(targets chosen randomly)</i>.",,30,"HERO","HUNTER","LEGENDARY"
+54897,"Zzeraku the Warped",8,"Whenever your hero\ntakes damage, summon\na 6/6 Nether Drake.",4,12,"MINION","WARLOCK","LEGENDARY"
+73459,"Axe Berserker",4,"<b>Rush</b>. <b>Honorable Kill:</b>\nDraw a weapon.",3,5,"MINION","WARRIOR","COMMON"
